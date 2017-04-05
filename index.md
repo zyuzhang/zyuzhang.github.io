@@ -1,5 +1,7 @@
 ### welcome to my homepage
-This is a collection of some of my technical work related to quantitative finance. Homework sets, papers I've authored,  Python programs, and blog posts.
+I am a first year quantitative finance and risk management student in the department of mathematics of university of Michigan. Currently i am interested in doing something related with stochastic control problem in math finance and random matrix theory.
+The website is mainly about my project and some paper or thesis i have authorized.
+
 
 ### Python in Finance
 We use Python in some of our classes, and here is some of my work:
@@ -21,7 +23,7 @@ We use Python in some of our classes, and here is some of my work:
 I have just start to use [Leetcode](https://leetcode.com/problemset/algorithms/) to solve some math relevant problems, and aim to practice my programming skill in C++. Here is my progress:![Leetcode](zyuzhang.github.io/1.png)
 
 ### About me
-I am a grad student at the University of Michigan, in the [Quantitative Finance and Risk Management](https://lsa.umich.edu/math/graduates/quantitative-finance.html) program. I did my undergraduate work in Probability and Statistics at the [department of mathematics](http://math.ustc.edu.cn/new/En/) of [University of Science and Technology of China](http://en.ustc.edu.cn/). I've done research with the [prof.Dangzheng Liu] (http://math.ustc.edu.cn/new/teachersinfo1.php?id=87) in the fields of the application of group representation theory in probability, my main research interest in math is stochastic analysis and Mathematical Finance. In the spare time, i will read some books and try to make some delicious food.
+I am a graduate student at the University of Michigan, in the [Quantitative Finance and Risk Management](https://lsa.umich.edu/math/graduates/quantitative-finance.html) program. I did my undergraduate work in Mathematics and Applied Mathematics at the [department of mathematics](http://math.ustc.edu.cn/new/En/) of [University of Science and Technology of China](http://en.ustc.edu.cn/). I've done research with the [prof.Dangzheng Liu](http://math.ustc.edu.cn/new/teachersinfo1.php?id=87) in the fields of the application of group representation theory in probability. My main research interest is related to stochastic control problem in math finance ,random matrix theory with some asympotic property and large deviation thoery (mainly considering it's application in studying the tail distribution or significant potential loss caused by the credit risk).
 
 ## Resume
 You can find my [Resume](https://zyuzhang.github.io/Resume.pdf) here. I can be reached at zeyuz@umich.edu
